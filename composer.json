@@ -1,7 +1,7 @@
 {
   "name": "generoi/kadence-blocks",
   "type": "wordpress-plugin",
-  "license": "GPLv2",
+  "license": "GPL-2.0-or-later",
   "description": "Kadence Blocks – Gutenberg Page Builder Toolkit",
   "homepage": "http://www.gravityhelp.com",
   "authors": [
